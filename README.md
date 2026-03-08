@@ -20,9 +20,6 @@
 
 <br>
 
-<div align=center>
 
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=endlesshallucination&theme=transparent&layout=compact&locale=en" alt="Most Used Languages" />
-</div>
 
 <hr>
