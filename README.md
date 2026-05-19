@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,nestjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,nestjs,python,mongodb,postgres,prisma" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,git,postman" />
 </p>
 
