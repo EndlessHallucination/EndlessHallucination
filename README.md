@@ -16,8 +16,6 @@ I build web apps end to end — interface, API, database, deploy. Most of what's
 here started as something I wanted to use myself, which means the projects have
 opinions behind them rather than tutorials.
 
-Currently open to internships and junior roles.
-
 <br>
 
 ## Latest project
