@@ -59,6 +59,10 @@ gets an answer.
 
 ## Stats
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EndlessHallucination&hide_border=true&bg_color=00000000&color=3A2FD9&line=3A2FD9&point=3A2FD9&area=true&area_color=3A2FD9&radius=4" width="98%" />
+</p>
+
 <br>
 
 <p align="center">
