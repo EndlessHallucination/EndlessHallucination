@@ -1,4 +1,3 @@
-<h1 align="center">Vasili Novikov</h1>
 
 <p align="center">
   <b>Full-stack developer</b> · React · TypeScript · Node
@@ -54,6 +53,19 @@ gets an answer.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,express,angular,python" /><br>
   <img src="https://skillicons.dev/icons?i=postgres,prisma,sqlite,tailwind,vite,git,postman" />
+</p>
+
+<br>
+
+## Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=EndlessHallucination&show_icons=true&hide_border=true&bg_color=00000000&title_color=3A2FD9&icon_color=3A2FD9&text_color=666&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndlessHallucination&layout=compact&hide_border=true&bg_color=00000000&title_color=3A2FD9&text_color=666&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EndlessHallucination&hide_border=true&bg_color=00000000&color=3A2FD9&line=3A2FD9&point=3A2FD9&area=true&area_color=3A2FD9&radius=4" width="98%" />
 </p>
 
 <br>
